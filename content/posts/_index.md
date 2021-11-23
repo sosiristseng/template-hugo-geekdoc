@@ -1,7 +1,6 @@
 ---
-menu:
-  after:
-    name: blog
-    weight: 5
-title: Blog
+title: News
+type: posts
+weight: 10
+geekdocHidden: true
 ---

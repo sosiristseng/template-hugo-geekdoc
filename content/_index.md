@@ -1,41 +1,64 @@
 ---
-title: Introduction
-type: docs
+title: Welcome to the documentation
+description: Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
+geekdocNav: false
+geekdocAlign: center
+geekdocAnchor: false
 ---
 
-# Acerbo datus maxime
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable MD033 -->
+
+<span class="badge-placeholder">[![Build Status](https://img.shields.io/drone/build/thegeeklab/hugo-geekdoc?logo=drone&server=https%3A%2F%2Fdrone.thegeeklab.de)](https://drone.thegeeklab.de/thegeeklab/hugo-geekdoc)</span>
+<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.83-blue.svg)](https://gohugo.io)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
+<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
+<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
+
+<!-- markdownlint-restore -->
+
+Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
+
+{{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}
+
+## Feature overview
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+### Clean and simple design
+
+Stay focused on exploring the content and don't get overwhelmed by a complex design.
 
 <--->
 
-## Suis quot vota
+### Light and mobile-friendly
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+
+<--->
+
+### Easy customization
+
+The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
+
 {{< /columns >}}
 
+{{< columns >}}
 
-## Tempora nisi nunc
+### Zero initial configuration
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+Getting started in minutes. The theme is shipped with a default configuration and works out of the box.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+<--->
 
-## Locis suis novi cum suoque decidit eadem
+### Handy shortcodes
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+We included some (hopefully) useful custom shortcodes so you don't have to and can focus on writing amazing docs.
+
+<--->
+
+### Dark mode
+
+Powerful dark mode that detects your system preferences or can be controlled by a toggle switch.
+
+{{< /columns >}}

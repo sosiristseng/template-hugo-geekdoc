@@ -1,0 +1,4 @@
+[submodule "themes/hugo-geekdoc"]
+	path = themes/hugo-geekdoc
+	url = https://github.com/sosiristseng/geekdoc-source.git
+	branch = output

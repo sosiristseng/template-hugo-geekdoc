@@ -1,5 +1,5 @@
 ---
-baseURL: https://sosiristseng.github.io/template-hugo-geekdoc/
+baseURL: https://sosiris-templates.github.io/hugo-geekdoc/
 title: Geekdocs
 theme: hugo-geekdoc
 pygmentsUseClasses: true
@@ -39,8 +39,8 @@ params:
   geekdocToC: 3
   geekdocTagsToMenu: true
 
-  geekdocRepo: https://github.com/thegeeklab/hugo-geekdoc
-  geekdocEditPath: edit/main/exampleSite/content
+  geekdocRepo: https://github.com/sosiris-templates/hugo-geekdoc
+  geekdocEditPath: edit/main/content
 
   geekdocSearch: true
   geekdocSearchShowParent: true

@@ -8,7 +8,7 @@
         },
         {
             "pattern": "^https://drive.google.com/drive/"
-        },
+        }
     ],
     "timeout": "20s",
     "retryOn429": true,

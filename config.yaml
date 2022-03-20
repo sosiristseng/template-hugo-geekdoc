@@ -1,5 +1,5 @@
 ---
-baseURL: https://sosiris-templates.github.io/hugo-geekdoc/
+baseURL: https://ww-templates.github.io/hugo-geekdoc/
 title: Geekdocs
 theme: hugo-geekdoc
 pygmentsUseClasses: true

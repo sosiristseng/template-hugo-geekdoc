@@ -1,5 +1,5 @@
 ---
-baseURL: https://ww-templates.github.io/hugo-geekdoc/
+baseURL: https://sosiristseng.github.io/template-hugo-geekdoc/
 title: Geekdocs
 theme: hugo-geekdoc
 pygmentsUseClasses: true
